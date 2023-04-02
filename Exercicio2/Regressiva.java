@@ -1,4 +1,4 @@
-package Retrogresso;
+package Exercicio2;
 
 public class Regressiva {
 	

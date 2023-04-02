@@ -1,4 +1,4 @@
-package Contador;
+package Exercicio1;
 
 public class Principal {
 
