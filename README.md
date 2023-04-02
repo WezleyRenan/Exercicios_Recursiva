@@ -8,3 +8,5 @@ exercicios:
 3-Faça um programa que conte até 10, e diga se o número da vez é par ou 
 ímpar.
 
+4-escolha um numero e conte de 2 em 2, usando recursividade.
+
