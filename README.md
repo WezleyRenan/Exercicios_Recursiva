@@ -10,3 +10,4 @@ exercicios:
 
 4-escolha um numero e conte de 2 em 2, usando recursividade.
 
+5- faça um programa com potenciação, usando recursividade
